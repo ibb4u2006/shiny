@@ -64,7 +64,10 @@ ui <- navbarPage("Presentation of Environmental Data", id = "nav_bar",
              )               
            )
            
-           )
+           ),
+  #Tab 3
+  tabPanel(title = "Station map",
+           leafletOutput("mymap"))
   
 )
 

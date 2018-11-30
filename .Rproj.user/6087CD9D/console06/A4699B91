@@ -122,4 +122,138 @@ s[0m[0K
 [0K
 [0K[?25h[?25l
 [0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/6087CD9D/sources/prop/1[0K3[?25l
+793574.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6087CD9D/sources/prop/9[0K3
+4F1892.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6087CD9D/sources/s-C38D[0K8
+441/7E815812.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6087CD9D/sources/s-C38D[0K8
+441/7E815812-contents.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6087CD9D/sources/s-C38D[0K8
+441/C004D0F.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/6087CD9D/sources/s-C38D[0K8
+441/C004D0F-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m ""[0K[?25h[18G[?25l$ git commit -m "A"[0K[19G[?25h[?25l$ git commit -m "An"[0K[20G[?25h[?25l$ git commit -m "Ann"[0K[21G[?25h[?25l$ git commit -m "Annu"[0K[22G[?25h[?25l$ git commit -m "Annua"[0K[23G[?25h[?25l$ git commit -m "Annual"[0K[24G[?25h[?25l$ git commit -m "Annual "[0K[25G[?25h[?25l$ git commit -m "Annual a"[0K[26G[?25h[?25l$ git commit -m "Annual an"[0K[27G[?25h[?25l$ git commit -m "Annual and"[0K[28G[?25h[?25l$ git commit -m "Annual and "[0K[29G[?25h[?25l$ git commit -m "Annual and M"[0K[30G[?25h[?25l$ git commit -m "Annual and Mo"[0K[31G[?25h[?25l$ git commit -m "Annual and Mon"[0K[32G[?25h[?25l$ git commit -m "Annual and Mont"[0K[33G[?25h[?25l$ git commit -m "Annual and Month"[0K[34G[?25h[?25l$ git commit -m "Annual and Monthl"[0K[35G[?25h[?25l$ git commit -m "Annual and Monthly"[0K[36G[?25h[?25l$ git commit -m "Annual and Monthly "[0K[37G[?25h[?25l$ git commit -m "Annual and Monthly \"[0K[38G[?25h[?25l$ git commit -m "Annual and Monthly "[0K[37G[?25h[?25l$ git commit -m "Annual and Monthly A"[0K[38G[?25h[?25l$ git commit -m "Annual and Monthly An"[0K[39G[?25h[?25l$ git commit -m "Annual and Monthly Ana"[0K[40G[?25h[?25l$ git commit -m "Annual and Monthly Anal"[0K[41G[?25h[?25l$ git commit -m "Annual and Monthly Analy"[0K[42G[?25h[?25l$ git commit -m "Annual and Monthly Analys"[0K[43G[?25h[?25l$ git commit -m "Annual and Monthly Analysi"[0K[44G[?25h[?25l$ git commit -m "Annual and Monthly Analysis"[0K[45G[?25h[?25l
+[0K[?25h[master (root-commit) ef00ffa] Annual and Monthly Analysis[0K[?25l
+ Committer: D352 <D352@czu.cz>[0K
+Your name and email address were configured automatically based[0K
+on your username and hostname. Please check that they are accurate.[0K
+You can suppress this message by setting them explicitly. Run the[0K
+following command and follow the instructions in your editor to edit[0K
+your configuration file:[0K
+[0K
+    git config --global --edit[0K
+[0K
+After doing this, you may fix the identity used for this commit with:[0K
+[0K
+    git commit --amend --reset-author[0K
+[0K
+ 22 files changed, 512 insertions(+)[0K
+ create mode 100644 .Rproj.user/6087CD9D/console06/A4699B91[0K
+ create mode 100644 .Rproj.user/6087CD9D/console06/INDEX001[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/prop/13793574[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/prop/934F1892[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/prop/FD14C62[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/prop/INDEX[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/7E815812[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/7E815812-conten[0Kt
+s[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/AFC3DAE[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/AFC3DAE-content[0Ks
+[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/C004D0F[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/C004D0F-content[0Ks
+[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/CBDF043E[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/CBDF043E-conten[0Kt
+s[0K
+ create mode 100644 .Rproj.user/6087CD9D/sources/s-C38D8441/lock_file[0K
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
+ create mode 100644 .Rproj.user/shared/notebooks/paths[0K
+ create mode 100644 data/clim_stations.rdata[0K
+ create mode 100644 global.R[0K
+ create mode 100644 server.R[0K
+ create mode 100644 shiny.Rproj[0K
+ create mode 100644 ui.R[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git p[0K[?25h[?25lu[0K[8G[?25h[9G[?25l$ git pus[0K[?25hh[0K[12G[?25l$ git push m[0K[?25ha[0Ks[0Kt[0Ke[0K[?25l$ git push mast[0K[?25h[?25l$ git push mas[0K[?25h[?25l$ git push ma[0K[15G[?25h[14G[?25l$ git push m[0K[?25h[?25l$ git push[0K[12G[?25h[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Km[0K[19G[18G[?25l$ git push origi[0K[?25hn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hfatal: 'origin' does not appear to be a git repository[0K[?25l
+fatal: Could not read from remote repository.[0K
+[0K
+Please make sure you have the correct access rights[0K
+and the repository exists.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git push origin maste[0K[?25h[?25l$ git push origin mast[0K[?25h[?25l$ git push origin mas[0K[?25h[?25l$ git push origin ma[0K[?25h[?25l$ git push origin m[0K[?25h[?25l$ git push origin[0K[19G[?25h[18G[?25l$ git push origi[0K[?25h[?25l$ git push orig[0K[?25h[?25l$ git push ori[0K[?25h[?25l$ git push or[0K[?25h[?25l$ git push o[0K[?25h[?25l$ git push[0K[12G[?25h[?25l$ git push m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hfatal: The current branch master has no upstream branch.[0K[?25l
+To push the current branch and set the remote as upstream, use[0K
+[0K
+    git push --set-upstream master master[0K
+[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push master[0K[?25h[19G[?25l$ git push master o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[?25l
+[0K[?25herror: src refspec origin does not match any.[0K[?25l
+[0;31merror: failed to push some refs to 'master'[0m[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K[15G[?25h[?25l
+$[0K[3G[?25h[?25l$ ^V[0K[?25h[?25l$[0K[3G[?25h[?25l$ git remote add origin https://github.com/ibb4u2006/shiny.git[0K[?25h[?25l
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0K[21G[20G[?25l$ git push -u origin[0K[?25h[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hEnumerating objects: 29, done.[0K[?25l
+Counting objects: 100% (29/29), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects:  73% (19/26)[0K[1G[?25hCompressing objects: 100% (26/26), done.[0K[?25l
+Writing objects: 100% (29/29), 32.13 KiB | 4.59 MiB/s, done.[0K
+Total 29 (delta 3), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:   0% (0/3)[0K[1G[?25hremote: Resolving deltas: 100% (3/3), done.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: Create a pull request for 'master' on GitHub by visiting:[0K
+remote:      https://github.com/ibb4u2006/shiny/pull/new/master[0K
+remote:[0K
+[0K[?25hTo https://github.com/ibb4u2006/shiny.git[0K[?25l
+ * [new branch]      master -> master[0K
+Branch 'master' set up to track remote branch 'master' from 'origin'.[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push -u origin master[0K[?25h[?25l$ git remote add origin https://github.com/ibb4u2006/shiny.git[0K[?25h[?25l$ git push master origin[0K[?25h[?25l$ git push master[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "Annual and Monthly Analysis"[0K[?25h[?25l$ git add .[0K[46G[?25h[12G[?25l$ git status[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/console06/A4699B91[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/prop/13793574[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/prop/934F1892[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/prop/FD14C62[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/s-C38D8441/7E815812[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/s-C38D8441/7E815812-conten[0Kt
+s[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/s-C38D8441/AFC3DAE[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/s-C38D8441/AFC3DAE-content[0Ks
+[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/s-C38D8441/C004D0F[0m[0K
+        [0;31mmodified:   .Rproj.user/6087CD9D/sources/s-C38D8441/C004D0F-content[0Ks
+[0m[0K
+        [0;31mmodified:   global.R[0m[0K
+        [0;31mmodified:   server.R[0m[0K
+        [0;31mmodified:   ui.R[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mD352@D352-19 [0;35m [0;33m~/Documents/shiny[0;36m (master)[0m[0K[15G[?25h[?25l
+$[0K[3G[?25h[?25l$ git status[0K[3G[?25h[13G[?25l$ git push -u origin master[0K[?25h[?25l$ git remote add origin https://github.com/ibb4u2006/shiny.git[0K[?25h[?25l$ git push master origin[0K[?25h[?25l$ git push master[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "Annual and Monthly Analysis"[0K[?25h[?25l$ git add .[0K[?25h[?25l$ git status[0K[?25h[?25l$ git add .[0K[?25h

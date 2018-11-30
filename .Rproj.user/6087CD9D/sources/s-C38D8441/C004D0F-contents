@@ -36,5 +36,13 @@ shinyServer(function(input, output) {
     
   })
   
+  output$mymap <- renderLeaflet({
+    
+    leaflet(station_coords_sf) %>%
+      addProviderTiles(providers$Stamen.TonerLite,
+                       options = providerTileOptions(noWrap = TRUE)) %>%
+      addCircleMarkers()
+  }) 
+  
 })
 
