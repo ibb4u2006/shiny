@@ -1,0 +1,14 @@
+packages <-  c("data.table", "ggplot2", "shiny", "leaflet", "sf")
+
+install.packages(packages)
+
+for(i in 1:length(packages)){
+  library(packages[i], character.only = TRUE)
+}  
+
+load("data/clim_stations.rdata")
+
+x <- clim_stations[station == "prague" & variable == "temperature"]
+bins <- seq(from = min(x), to = max(x), length.out = input$bins + 1)
+
+clim_stations[variable == input$var & station == input$sta]
